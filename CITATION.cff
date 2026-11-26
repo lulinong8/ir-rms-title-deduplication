@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the accompanying manuscript and this repository."
+title: "IR-RMS title deduplication: source code and S1 data"
+version: 1.0.0
+date-released: 2026-11-26
+license: MIT
+repository-code: "https://github.com/lulinong8/ir-rms-title-deduplication"
+url: "https://github.com/lulinong8/ir-rms-title-deduplication"
+keywords:
+  - text similarity
+  - title deduplication
+  - institutional repository
+  - research management system
+  - Jaccard similarity
+authors:
+  - family-names: Lu
+    given-names: Linong
+  - family-names: Yang
+    given-names: Baolin
+  - family-names: Wang
+    given-names: Xiaochun
+abstract: "Python implementation and S1 data for a lightweight character-level title similarity algorithm used to deduplicate institutional-repository records against research-management-system records."
