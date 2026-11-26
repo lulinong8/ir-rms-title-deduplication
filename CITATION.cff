@@ -4,6 +4,7 @@ title: "IR-RMS title deduplication: source code and S1 data"
 version: 1.0.0
 date-released: 2026-11-26
 license: MIT
+doi: "10.5281/zenodo.24557250"
 repository-code: "https://github.com/lulinong8/ir-rms-title-deduplication"
 url: "https://github.com/lulinong8/ir-rms-title-deduplication"
 keywords:

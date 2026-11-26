@@ -1,5 +1,7 @@
 # IR–RMS title deduplication
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24557250.svg)](https://doi.org/10.5281/zenodo.24557250)
+
 Companion source code and data for the manuscript:
 
 > Lu L, Yang B, Wang X. *A lightweight character-level text similarity algorithm for academic literature deduplication in institutional repositories.* PLOS ONE (under review; PONE-D-26-35837).
@@ -126,17 +128,19 @@ The two licenses are deliberately separate: MIT is a software license, while CC0
 
 Suitable statement for the manuscript:
 
-> The source code, user guide, test dataset and five-sheet S1 result workbook are publicly available at https://github.com/lulinong8/ir-rms-title-deduplication under the MIT License (code) and CC0 1.0 (data). The archived release is available at [Zenodo DOI].
+> The source code, user guide, test dataset and five-sheet S1 result workbook are publicly available at https://github.com/lulinong8/ir-rms-title-deduplication under the MIT License (code) and CC0 1.0 (data). The archived release is available at https://doi.org/10.5281/zenodo.24557250 (version DOI; concept DOI: https://doi.org/10.5281/zenodo.24557249).
 
-Replace `[Zenodo DOI]` after archiving the GitHub release with Zenodo. PLOS recommends a repository that issues persistent identifiers; GitHub provides the public, login-free code archive, and Zenodo provides the DOI for the release.
+GitHub provides the public, login-free code archive and the version-controlled repository; Zenodo provides the persistent version DOI for the `v1.0.0` release.
 
 ## Archiving
 
-For a citeable release:
+The `v1.0.0` GitHub release has been archived on Zenodo:
 
-1. Create a GitHub release tagged `v1.0.0`.
-2. Connect the repository to Zenodo (or upload the release archive manually) and mint a DOI.
-3. Insert the DOI into the manuscript's Data availability and Code availability statements, replacing `[X12]` and `[X13]`.
+- Version DOI (cite this release): https://doi.org/10.5281/zenodo.24557250
+- Concept DOI (all versions): https://doi.org/10.5281/zenodo.24557249
+- Zenodo record: https://zenodo.org/records/24557250
+
+To cite the software, use the version DOI. To point to the project across future versions, use the concept DOI. The DOI should also be inserted into the manuscript's Data availability and Code availability statements, replacing `[X12]` and `[X13]`.
 
 ## Contact
 
