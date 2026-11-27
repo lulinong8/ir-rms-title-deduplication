@@ -1,10 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this code or data, please cite the accompanying manuscript and this repository."
-title: "IR-RMS title deduplication: source code and S1 data"
-version: 1.0.0
-date-released: 2026-11-26
+message: "If you use this code or data, please cite the accompanying manuscript and this release."
+type: software
+title: "A dictionary-free language-adaptive text similarity algorithm for academic literature deduplication in institutional repositories"
+version: "1.0.1"
+date-released: 2026-11-27
 license: MIT
-doi: "10.5281/zenodo.24557250"
+doi: "10.5281/zenodo.24576834"
 repository-code: "https://github.com/lulinong8/ir-rms-title-deduplication"
 url: "https://github.com/lulinong8/ir-rms-title-deduplication"
 keywords:
@@ -12,6 +13,8 @@ keywords:
   - title deduplication
   - institutional repository
   - research management system
+  - language-adaptive
+  - dictionary-free
   - Jaccard similarity
 authors:
   - family-names: Lu
@@ -20,4 +23,4 @@ authors:
     given-names: Baolin
   - family-names: Wang
     given-names: Xiaochun
-abstract: "Python implementation and S1 data for a lightweight character-level title similarity algorithm used to deduplicate institutional-repository records against research-management-system records."
+abstract: "Python implementation and bibliographic data for a dictionary-free, language-adaptive title similarity algorithm used to deduplicate institutional-repository records against research-management-system records. The code is MIT-licensed; the data are CC0 1.0."
